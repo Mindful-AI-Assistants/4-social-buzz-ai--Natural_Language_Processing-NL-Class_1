@@ -79,7 +79,6 @@ A repository for research, implementation, and best practices with Gradient Boos
 <!--End-->
 
 
-<br><br>
 
 > [!TIP]
 >
