@@ -80,15 +80,18 @@ A repository for research, implementation, and best practices with Gradient Boos
 
 > [!TIP]
 >
-> * [Access](): Workbook
+> * [Access](): Workbook - (Class 1)
 > 
-> * [Access]():  Code
+> * [Access]():  🇬🇧 1- NLP_Pre_Processing_ENGLISH
 >
-> * [Access]():  2-Code_Low_Default_Models
+> * [Access]():   🇧🇷 1-Code NLP_Pre_Processing_Portuguese
 >
 >
-> * [Access]():  Dataset Low_Default.csv
+> * [Access]():  Workbook - (Class 2)
 >
+> 
+>
+> 
 
 <br><br><br>
 
