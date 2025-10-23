@@ -99,13 +99,37 @@ A repository for research, implementation, and best practices with Gradient Boos
 
 <br><br>
 
+### 1- [NLP Pre Processing Regex]()
+
+<br>
+
 https://github.com/user-attachments/assets/9cdfac61-4173-46d2-98d2-b811136f0d58
 
-<br><br>
 
 
 <br><br>
 
+##
+
+<br>
+
+
 
 
 <br><br>
+
+##
+
+<br>
+
+
+
+<br><br>
+
+##
+
+<br>
+
+
+<br><br>
+
