@@ -136,9 +136,22 @@ https://github.com/user-attachments/assets/8331963f-72c5-4bed-a32e-09549755bd50
 
 
 
-## 5 -NLP Pre Processing - Count Vectorizer (Bag-of-Words) - ConvertsTex into Feature - CountMatrix
+## 5- NLP Pre Processing - Count Vectorizer (Bag-of-Words) - ConvertsTex into Feature - CountMatrix
 
 <br>
 
 https://github.com/user-attachments/assets/eb5c2af6-e2a1-4dc6-8b9d-cdf028b25cb7
+
+
+<br><br>
+
+
+
+## 6-  NLP Pre Processing -  Stopword Removal – Remove Common Words (Stopwords) 
+
+<br>
+
+https://github.com/user-attachments/assets/78f0c7f0-2796-41f9-a054-b2412239367b
+
+<br><br>
 
