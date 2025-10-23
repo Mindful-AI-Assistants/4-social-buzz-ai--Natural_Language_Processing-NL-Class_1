@@ -95,11 +95,11 @@ A repository for research, implementation, and best practices with Gradient Boos
 
 <br><br><br>
 
-## NLP Cascade Pre-Processing Pipeline
+# 🎥 DEMO - NLP Cascade Pre-Processing Pipeline
 
 <br><br>
 
-### 1- [NLP Pre Processing Regex]()
+## 1- [NLP Pre Processing Regex]()
 
 <br>
 
@@ -118,7 +118,9 @@ https://github.com/user-attachments/assets/899c86d3-e953-4a1e-b335-8b0770c81cf3
 
 <br><br>
 
-## 3- NLP - PreProcessing - Lemma
+
+## 3- NLP - PreProcessing - Lemmatization
+
 
 <br>
 
@@ -136,9 +138,24 @@ https://github.com/user-attachments/assets/8331963f-72c5-4bed-a32e-09549755bd50
 
 
 
-## 5 -NLP Pre Processing - Count Vectorizer (Bag-of-Words) - ConvertsTex into Feature - CountMatrix
+
+## 5- NLP Pre Processing - Count Vectorizer (Bag-of-Words) - ConvertsTex into Feature - CountMatrix
+
 
 <br>
 
 https://github.com/user-attachments/assets/eb5c2af6-e2a1-4dc6-8b9d-cdf028b25cb7
 
+
+
+<br><br>
+
+
+
+## 6-  NLP Pre Processing -  Stopword Removal – Remove Common Words (Stopwords) 
+
+<br>
+
+https://github.com/user-attachments/assets/78f0c7f0-2796-41f9-a054-b2412239367b
+
+<br><br>
