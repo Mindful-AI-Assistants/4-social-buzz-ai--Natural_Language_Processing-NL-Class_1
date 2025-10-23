@@ -118,11 +118,11 @@ https://github.com/user-attachments/assets/899c86d3-e953-4a1e-b335-8b0770c81cf3
 
 <br><br>
 
-##
+## 3 NLP - PreProcessing - Lemma
 
 <br>
 
-
+https://github.com/user-attachments/assets/b441b09f-b9fd-4232-b967-bdd63986b218
 
 <br><br>
 
