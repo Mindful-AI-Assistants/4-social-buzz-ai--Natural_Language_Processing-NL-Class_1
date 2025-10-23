@@ -109,11 +109,11 @@ https://github.com/user-attachments/assets/9cdfac61-4173-46d2-98d2-b811136f0d58
 
 <br><br>
 
-##
+## 2- [NLP Pre Processing Tokenizer using NLTK]()
 
-<br>
+<br>  
 
-
+https://github.com/user-attachments/assets/899c86d3-e953-4a1e-b335-8b0770c81cf3
 
 
 <br><br>
