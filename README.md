@@ -118,7 +118,7 @@ https://github.com/user-attachments/assets/899c86d3-e953-4a1e-b335-8b0770c81cf3
 
 <br><br>
 
-## 3 NLP - PreProcessing - Lemma
+## 3- NLP - PreProcessing - Lemma
 
 <br>
 
@@ -133,4 +133,12 @@ https://github.com/user-attachments/assets/b441b09f-b9fd-4232-b967-bdd63986b218
 https://github.com/user-attachments/assets/8331963f-72c5-4bed-a32e-09549755bd50
 
 <br><br>
+
+
+
+## 5 -NLP Pre Processing - Count Vectorizer (Bag-of-Words) - ConvertsTex into Feature - CountMatrix
+
+<br>
+
+https://github.com/user-attachments/assets/eb5c2af6-e2a1-4dc6-8b9d-cdf028b25cb7
 
