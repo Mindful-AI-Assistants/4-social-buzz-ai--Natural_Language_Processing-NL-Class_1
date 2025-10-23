@@ -78,8 +78,6 @@ A repository for research, implementation, and best practices with Gradient Boos
 
 <!--End-->
 
-
-
 > [!TIP]
 >
 > * [Access](): Workbook
@@ -91,3 +89,20 @@ A repository for research, implementation, and best practices with Gradient Boos
 >
 > * [Access]():  Dataset Low_Default.csv
 >
+
+<br><br><br>
+
+## NLP Cascade Pre-Processing Pipeline
+
+<br><br>
+
+
+<br><br>
+
+
+
+<br><br>
+
+
+
+<br><br>
