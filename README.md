@@ -25,7 +25,7 @@ A repository for research, implementation, and best practices with Gradient Boos
 
 [**Course:**]() Humanistic AI & Data Science (4th Semester)  
 [**Institution:**]() PUC-SP  
-**Professor:** [Rooneu Coelho]()  
+**Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)
 
 
 
