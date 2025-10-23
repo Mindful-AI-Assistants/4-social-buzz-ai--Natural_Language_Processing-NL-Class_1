@@ -126,10 +126,11 @@ https://github.com/user-attachments/assets/b441b09f-b9fd-4232-b967-bdd63986b218
 
 <br><br>
 
-##
+## 4-NLP Pre Processing Stem
 
 <br>
 
+https://github.com/user-attachments/assets/8331963f-72c5-4bed-a32e-09549755bd50
 
 <br><br>
 
