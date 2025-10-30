@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/899c86d3-e953-4a1e-b335-8b0770c81cf3
 <br><br>
 
 
-## 3- [NLP - PreProcessing - Lemmatization]()
+## 3- [NLP Preprocessing Pipeline – Lemmatization with SpaCy]()
 
 
 <br>
